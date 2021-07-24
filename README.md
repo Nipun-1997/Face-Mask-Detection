@@ -4,6 +4,7 @@
  2. Yolo V5s <br>
  Data Annotation has been done using MakeSense.AI https://www.makesense.ai/ <br>
  For above two models annotation format is .xml and .txt respectively. <br>
+ All the codes are written in Python language and model has been trained in Google Colab <br>
  
  
   
